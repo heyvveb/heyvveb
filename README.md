@@ -65,8 +65,13 @@
 
   <a href="https://www.linkedin.com/in/heynner-velasco-389a49321/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Heynner_Velasco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-Heynner_Velasco -0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-
+  
+  <a href="https://gitlab.com/Heynner_Velasco">
+    <img
+      src="https://img.shields.io/badge/GitLab-Heynner_Velasco-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"
+    />
+  </a>
 </p>
