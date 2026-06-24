@@ -55,6 +55,18 @@
 
 ## 🌐 Contact me
 
-<p>
-<a href="[https://github.com/TU_USUARIO](https://www.linkedin.com/in/heynner-velasco-389a49321/)">Linkedin</a>
+<p align="center">
+
+  <a href="mailto:hvelascobujatto@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-hvelascobujatto@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/heynner-velasco-389a49321/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Heynner_Velasco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+
 </p>
